@@ -26,7 +26,7 @@ class Myhomepage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Belajar Flutter P4"),
+        title: const Text("Dashboard Mahasiswa"),
         centerTitle: false,
       ),
       body: const Center(
